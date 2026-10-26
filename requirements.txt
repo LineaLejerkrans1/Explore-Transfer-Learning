@@ -1,0 +1,4 @@
+numpy
+fastai
+IPython
+ipykernel
